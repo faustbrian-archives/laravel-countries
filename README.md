@@ -1,24 +1,24 @@
 # Laravel Countries
 
-[![Latest Version](https://badgen.net/packagist/v/kodekeep/laravel-countries)](https://packagist.org/packages/kodekeep/laravel-countries)
-[![Software License](https://badgen.net/packagist/license/kodekeep/laravel-countries)](https://packagist.org/packages/kodekeep/laravel-countries)
-[![Build Status](https://img.shields.io/github/workflow/status/kodekeep/laravel-countries/run-tests?label=tests)](https://github.com/kodekeep/laravel-countries/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/laravel-countries)](https://codeclimate.com/github/kodekeep/laravel-countries)
-[![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/laravel-countries)](https://codeclimate.com/github/kodekeep/laravel-countries)
-[![Total Downloads](https://badgen.net/packagist/dt/kodekeep/laravel-countries)](https://packagist.org/packages/kodekeep/laravel-countries)
+[![Latest Version](https://badgen.net/packagist/v/konceiver/laravel-countries)](https://packagist.org/packages/konceiver/laravel-countries)
+[![Software License](https://badgen.net/packagist/license/konceiver/laravel-countries)](https://packagist.org/packages/konceiver/laravel-countries)
+[![Build Status](https://img.shields.io/github/workflow/status/konceiver/laravel-countries/run-tests?label=tests)](https://github.com/konceiver/laravel-countries/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Coverage Status](https://badgen.net/codeclimate/coverage/konceiver/laravel-countries)](https://codeclimate.com/github/konceiver/laravel-countries)
+[![Quality Score](https://badgen.net/codeclimate/maintainability/konceiver/laravel-countries)](https://codeclimate.com/github/konceiver/laravel-countries)
+[![Total Downloads](https://badgen.net/packagist/dt/konceiver/laravel-countries)](https://packagist.org/packages/konceiver/laravel-countries)
 
 This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides country associations for Laravel.
 
 ## Installation
 
 ```bash
-composer require kodekeep/laravel-countries
+composer require konceiver/laravel-countries
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new KodeKeep\Skeleton();
+$skeleton = new Konceiver\Skeleton();
 echo $skeleton->echoPhrase('Hello, KodeKeep!');
 ```
 
@@ -38,7 +38,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover a security vulnerability within this package, please send an e-mail to hello@kodekeep.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within this package, please send an e-mail to hello@konceiver.dev. All security vulnerabilities will be promptly addressed.
 
 ## Credits
 
